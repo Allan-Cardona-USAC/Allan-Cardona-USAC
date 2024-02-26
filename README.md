@@ -14,13 +14,32 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-- 👋 Hi, I’m @Allan-Cardona
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<div>
+<table>
+<lu>
+    <h1> Hi there, I'm Allán Cardona 👋</h1>
+    <li>👀 I’m interested in Web Development. </li>
+    <li>🌱 I’m currently learning the role of a frontend.</li>
+    <li>📫 How to reach me </li>
+ </lu>
+</table> 
+</div>
+<h1>🥷 About Me</h1>
+
+Science and Systems Engineering Student.
+
+Working as a junior frontend developer and doing the One Oracle Next Education program as a frontend ✨
+
+---
+
+### 🛸 What I'm learning
+
+* [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML) 
+* [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS) 
+* [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+* [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://legacy.reactjs.org/) 
+* [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 <!---
 Allan-Cardona-USAC/Allan-Cardona-USAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
